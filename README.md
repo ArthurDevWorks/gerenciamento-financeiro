@@ -40,7 +40,8 @@ Laravel facilita o desenvolvimento, tornando-o uma experiência produtiva e cria
 
 ## Status do Projeto
 
-- Levantamento de dados
+- Definindo Fluxo - Em andamento
+- Modelagem de banco - Aguardando FLuxo 
 - Desenvolvido e mantido por: **Arthur Soares Parente**
 
 ## Tecnologias Utilizadas
