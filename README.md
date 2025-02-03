@@ -20,6 +20,9 @@
 </p>
 
 ## Gerenciamento Financeiro Pessoal
+## Status
+Em desenvolvimento.
+
 ## Sobre o Projeto
 
 O sistema tem como principal objetivo suprir as necessidades de uma pessoa que busca uma ferramenta que o ajude a gerenciar e analisar suas finanças.
