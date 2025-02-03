@@ -22,7 +22,7 @@
 ## Gerenciamento Financeiro Pessoal
 ## Sobre o Projeto
 
-O sistema tem como principal objetivo suprir as necessidades de uma pessoa que busca uma ferramento que o ajude a gerenciar e analisar suas finanças.
+O sistema tem como principal objetivo suprir as necessidades de uma pessoa que busca uma ferramenta que o ajude a gerenciar e analisar suas finanças.
 
 ## Funcionalidades do Laravel
 
@@ -41,7 +41,7 @@ Laravel facilita o desenvolvimento, tornando-o uma experiência produtiva e cria
 ## Status do Projeto
 
 - Definindo Fluxo - Em andamento
-- Modelagem de banco - Aguardando FLuxo 
+- Modelagem de banco - Aguardando Fluxo 
 - Desenvolvido e mantido por: **Arthur Soares Parente**
 
 ## Tecnologias Utilizadas
